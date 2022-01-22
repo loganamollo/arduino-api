@@ -1,0 +1,14 @@
+{
+  "name": "arduino-api",
+  "version": "1.0.0",
+  "description": "An api that receives action verbs from a browser and sends respective codes to an arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayne Logan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
